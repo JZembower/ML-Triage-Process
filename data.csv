@@ -1266,7 +1266,6 @@ Group;Sex;Age;Patients number per hour;Arrival mode;Injury;Chief_complain;Mental
 2;2;81;17;2;1;dizziness;1;0;#BO�!;130;90;80;20;36.2;99;3;Dizziness and giddiness;1;3;0 ;310;4,00;0 
 2;1;81;2;2;2;Sensory, Decreased;1;0;#BO�!;170;100;78;20;36.6;98;3;Cord compression, unspecified;7;3;0 ;475;5,00;0 
 2;2;87;8;4;1;orthopnea;1;0;#BO�!;150;80;62;20;36.2;98;3;Dyspnoea;2;3;0 ;887;2,00;0 
-
 Group;Sex;Age;Patients number per hour;Arrival mode;Injury;Chief_complain;Mental;Pain;NRS_pain;SBP;DBP;HR;RR;BT;Saturation;KTAS_RN;Diagnosis in ED;Disposition;KTAS_expert;Error_group;Length of stay_min;KTAS duration_min;mistriage
 2;2;71;3;3;2;right ocular pain;1;1;2;160;100;84;18;36.6;100;2;Corneal abrasion;1;4;2;86;5,00;1
 1;1;56;12;3;2;right forearm burn;1;1;2;137;75;60;20;36.5;;4;Burn of hand, firts degree dorsum;1;5;4;64;3,95;1
